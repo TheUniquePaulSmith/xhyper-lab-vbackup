@@ -1,0 +1,4 @@
+[submodule "xhyper-vbackup"]
+	path = xhyper-vbackup
+	url = https://github.com/machv/xhyper-vbackup.git
+	branch = master
